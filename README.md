@@ -1,3 +1,4 @@
-# Blog
+# There will be some writing here
 
-## Just a quick test
+## Test in nederlands
+
