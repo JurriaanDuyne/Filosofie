@@ -2,13 +2,13 @@
 layout: default
 title: Thuis
 nav_order: 1
-description: "Jurriaan Duyne filosofie bestaat uit een collectie essays van Jurriaan Duyne"
+description: "Op deze website plaats ik gedachten en reflecties in de vorm van essays of posts"
 permalink: /
 ---
 
 # Welkom
 
-Welkom op mijn website. Mijn naam is Jurriaan Duyne. Ik houd hier een verzameling filosofie essays bij die ik door de tijd heen schrijf. Zie de sectie Over, voor meer informatie over mij of als u contact met mij op wilt nemen.
+Welkom op mijn website. Mijn naam is Jurriaan Duyne. In het dagelijks leven ben ik informatie-/bedrijfsarchitect. Ik houd hier een verzameling gedachten bij in de vorm van filosofische essays of posts. Zie de sectie Over, voor meer informatie over mij of als u contact met mij op wilt nemen.
 
 ## Updates
 
