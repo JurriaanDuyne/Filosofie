@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jurriaan Duyne persoonlijke website
+title: Jurriaan Duyne
 email: jurriaan@duyne.nl
 description: >- # this means to ignore newlines until "baseurl:"
   Collectie vrijetijdsfilosofie stukken van Jurriaan Duyne. Invloeden van Heidegger, Peter Sloterdijk, Haroon Sheik, Derrida, Levinas
